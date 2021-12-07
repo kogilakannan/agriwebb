@@ -17,8 +17,8 @@ npx wdio run wdio.conf.js
 ```
 
 ### References
-https://webdriver.io/
-https://www.youtube.com/channel/UCdsG6Ebb5UBHOhltsofrsjg
+1. https://webdriver.io/
+2. https://www.youtube.com/channel/UCdsG6Ebb5UBHOhltsofrsjg
 
 
 ### Author
