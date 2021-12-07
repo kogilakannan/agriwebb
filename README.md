@@ -16,6 +16,11 @@ npm install
 npx wdio run wdio.conf.js 
 ```
 
+### References
+https://webdriver.io/
+https://www.youtube.com/channel/UCdsG6Ebb5UBHOhltsofrsjg
+
+
 ### Author
 
 Kogila Vani Kannan - mailkogilakannan@gmail.com
